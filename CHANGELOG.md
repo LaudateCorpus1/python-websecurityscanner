@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-websecurityscanner/#history
 
+## [1.7.0](https://github.com/googleapis/python-websecurityscanner/compare/v1.6.1...v1.7.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#136](https://github.com/googleapis/python-websecurityscanner/issues/136)) ([7f1c666](https://github.com/googleapis/python-websecurityscanner/commit/7f1c666ea384c81ad3fe50a0c5926c2f1ec8e9bf))
+
 ### [1.6.1](https://www.github.com/googleapis/python-websecurityscanner/compare/v1.6.0...v1.6.1) (2021-11-01)
 
 
